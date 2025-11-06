@@ -6,15 +6,14 @@ Este projeto implementa um sistema simples de **envio e devolução de arquivos*
 > 🔜 **Etapa 2 (futura)**: Adição de mecanismos de entrega confiável.
 
 ## 📁 Estrutura do Projeto
+```
 PROJECT_INFRA_COM/
 ├── config.py
 ├── utils.py
 ├── server.py
 ├── client.py
 └── tests/
-    ├── __init__.py
-    └── test_transfer.py
-
+```
 
 ## 🚀 Como Usar
 
