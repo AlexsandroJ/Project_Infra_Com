@@ -5,8 +5,6 @@ Este projeto implementa um sistema simples de **envio e devolução de arquivos*
 > ✅ **Etapa 1**: Implementação básica sem confiabilidade (sem ACKs, retransmissões ou correção de erros).  
 > 🔜 **Etapa 2 (futura)**: Adição de mecanismos de entrega confiável.
 
----
-
 ## 📁 Estrutura do Projeto
 PROJECT_INFRA_COM/
 ├── config.py
