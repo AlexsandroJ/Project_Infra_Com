@@ -13,6 +13,8 @@ PROJECT_INFRA_COM/
 ├── server.py
 ├── client.py
 └── tests/
+    ├── __init__.py
+    └── test_transfer.py
 ```
 
 ## 🚀 Como Usar
